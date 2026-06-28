@@ -1,0 +1,11 @@
+# Design assets (raw zip)
+*.zip
+
+# Claude Code session data
+.claude/
+
+# Flutter build outputs (already in push_app/.gitignore, belt-and-suspenders)
+push_app/build/
+push_app/.dart_tool/
+push_app/.flutter-plugins
+push_app/.flutter-plugins-dependencies
